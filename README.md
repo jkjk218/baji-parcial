@@ -1,0 +1,2 @@
+# baji-parcial
+baji parcial
